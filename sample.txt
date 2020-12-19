@@ -1,2 +1,4 @@
 Start git management.
 Start python.
+- git add
+- git commit
